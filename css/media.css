@@ -43,6 +43,12 @@
         display: none !important;
 
     }
+    .desktop-slider{
+        display: none;
+    }
+    .slider{
+        display: block;
+    }
 }
 @media (max-width: 575px) {
     .home-about-area-left h6{
